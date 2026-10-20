@@ -40,9 +40,3 @@ Jalankan Aplikasi Laravel:
 
 3. php artisan serve
 Buka browser dan akses: http://127.0.0.1:8000
-
-### Kesimpulan:
-* Isi file `README.md` milikmu yang ada di gambar sebenarnya **sudah memenuhi syarat dasar** kredensial seeder dan cara menjalankan server[cite: 4].
-* Jika ingin terlihat jauh lebih profesional dan lengkap saat dinilai, kamu tinggal menyalin versi yang diperbarui di atas ke dalam file `README.md` tersebut[cite: 4].
-
-Dengan ini, seluruh persiapan projek inventaris sekolah milikmu **sudah 100% selesai dan siap disubmit!** 🎉
